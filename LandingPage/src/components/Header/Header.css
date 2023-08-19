@@ -1,0 +1,168 @@
+
+
+
+a {
+    text-decoration: none;
+    color: unset;
+    
+}
+ul {
+    list-style: none;
+}
+
+
+.header{
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    justify-content: center;
+    align-items: center;
+    background: rgb(250, 249, 249);
+}
+
+.logo h2{
+    font-weight: 500;
+    font-size: 1.8rem;
+    font-style: oblique;
+}
+
+.menu{
+    margin-bottom: 0;
+
+}
+
+.nav__item a{
+    text-decoration: none;
+    color:#0b2727;
+    list-style: none;
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin-right: 40px;
+}
+
+.nav__item{
+    list-style: none;
+   
+}
+.nav__item a:hover{
+    color: inherit;
+}
+.nav__item a.active__link{
+    color: #faa935
+}
+
+.mobile__menu{
+    font-size: 1.3rem;
+    color: #0b2727;
+    margin-left: 50px;
+    margin-top: 8px;
+
+
+}
+.sticky__header{
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    background: #fff;
+    position: sticky;
+    top:0;
+    left: 0;
+    box-shadow: 3px 3px 8px -3px #ddd;
+    z-index: 999;
+}
+
+.primary__btn {
+    background: #faa935 !important;
+    border: none !important;
+    border-radius: 50px !important;
+    padding: 0.4rem 1.5rem !important;
+    margin-top: 8px;
+  }
+  .primary__btn a {
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: #fff;
+  }
+  .primary__btn a:hover {
+    color: inherit;
+  }
+  .secondary__btn {
+    background: transparent !important;
+    color: #0b2727 !important;
+    border: none !important;
+    font-weight: 500 !important;
+    margin-top: 8px;
+  }
+  
+  .secondary__btn a {
+    text-decoration: none;
+    font-size: 1.1rem;
+    color:#0b2727;
+  }
+  
+  .secondary__btn a:hover {
+    color: inherit;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------------------------------  */
+
+.nav-cmp{
+   font-size: 25px;
+   font-style: oblique;
+}
+.navbar{
+    width: 100%;
+}
+
+.nav-container{
+    margin-left: 30px;
+    
+}
+
+.navbar-nav{
+    padding-left: 300px;
+}
+
+.nav-item{
+    margin-left: 70px;
+    border-radius: 20%;
+    font-size: 18px;
+}
+
+.nav-link:hover{
+    color: red;
+}
+
+.menu{
+    margin-top: 10px;
+    margin-left: 320px;
+    
+}
+
+.register{
+    background-color: orange;
+    border-radius: 20%;
+}

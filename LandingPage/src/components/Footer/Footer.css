@@ -1,0 +1,61 @@
+
+.footer{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    background-color: rgb(253, 254, 254);
+}
+
+.footer .logo h2{
+    margin-bottom: 1rem;
+    font-weight: 500;
+    font-style: oblique;
+}
+.footer .logo p{
+    color: #6e7074;
+
+}
+
+.social__links span a{
+    text-decoration: none;
+    color: #0b2727;
+    font-size: 1.2rem;
+}
+
+.footer__link-title{
+    color:#0b2727;
+    margin-bottom: 1rem;
+}
+
+.footer__quick-links li a{
+    text-decoration:none;
+    color:#6e7074;
+    font: size 1.1rem;
+}
+
+.footer__quick-links h6 span i{
+    color:#faa935;
+    font-size: 1.1rem;
+}
+
+.copyright{
+    color: #6e7074;
+    font-size: 1rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
